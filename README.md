@@ -97,11 +97,10 @@ few_shots.py: Contains few-shot prompts.
 
 database/db_creation_student_helper.sql: SQL script for setting up the database.
 
+![User Interface 1](screenshots/Picture1.jpg)
+![User Interface 2](screenshots/Picture2.jpg)
 
-![User Interface 1](assets/images/ui1.png)
-![User Interface 2](assets/images/ui2.png)
+![User Interface 1](screenshots/Picture3.jpg)
+![User Interface 2](screenshots/Picture4.jpg)
+![User Interface 1](screenshots/Picture5.jpg)
 
-![User Interface 1](assets/images/ui1.png)
-![User Interface 2](assets/images/ui2.png)
-![User Interface 1](assets/images/ui1.png)
-![User Interface 2](assets/images/ui2.png)
