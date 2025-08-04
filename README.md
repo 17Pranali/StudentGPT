@@ -25,39 +25,14 @@ Few-shot learning
 
 In the UI, users can ask questions in natural language, and the system will generate accurate responses based on the data.
 
-Installation
-
-Clone this repository to your local machine using:
-
-bash
-
-Copy code
-
-git clone https://github.com/codebasics/langchain.git
-
-Navigate to the project directory:
-
-bash
-
-Copy code
+Navigate to the project directory 
 
 cd student_helper_bot
 
 Install the required dependencies using pip:
 
-bash
-
-Copy code
-
 pip install -r requirements.txt
 
-Acquire an API key through makersuite.google.com and add it to the .env file:
-
-bash
-
-Copy code
-
-GOOGLE_API_KEY="your_api_key_here"
 
 For database setup, run database/db_creation_student_helper.sql in your MySQL workbench.
 
@@ -65,9 +40,6 @@ Usage
 
 Run the Streamlit app by executing:
 
-bash
-
-Copy code
 
 streamlit run main.py
 
